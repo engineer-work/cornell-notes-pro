@@ -1,0 +1,5 @@
+{
+  "name": "Cornell Notes Pro",
+  "description": "A professional, cloud-synced Cornell note-taking application built with the MERN stack.",
+  "requestFramePermissions": []
+}
